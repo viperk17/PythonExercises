@@ -15,4 +15,8 @@ while True:
             print("Enter 1-10.")
     except ValueError:
         print("Please enter a number... ")
+<<<<<<< HEAD
         continue
+=======
+        continue
+>>>>>>> 9903a5aad660c35811fdef1f4b2789b2ac6e1f43
