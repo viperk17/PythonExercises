@@ -4,7 +4,6 @@ Input Format
 A single line containing a string
 
 Output Format
-
 In the first line, print True if
 has any alphanumeric characters. Otherwise, print False.
 In the second line, print True if has any alphabetical characters. Otherwise, print False.
