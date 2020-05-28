@@ -10,6 +10,7 @@ words = my_str.split()
 # sort the list
 words.sort()
 
+
 # display the sorted words
 print("The sorted words are:")
 for word in words:
