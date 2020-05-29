@@ -14,9 +14,8 @@ import os
 import sys
 import functools
 
-#
+
 # Complete the simpleArraySum function below.
-#
 def simpleArraySum(ar):
     # return (functools.reduce(lambda x,y:x+y,ar))
     result=sum(ar) 
